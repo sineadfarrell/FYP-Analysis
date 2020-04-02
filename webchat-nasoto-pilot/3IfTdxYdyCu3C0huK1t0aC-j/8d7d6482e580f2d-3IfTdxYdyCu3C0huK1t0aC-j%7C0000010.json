@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "3IfTdxYdyCu3C0huK1t0aC-j|0000010",
+  "timestamp": "2020-04-01T14:22:59.9726893+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585750895",
+    "name": "chloe.foxe",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "3IfTdxYdyCu3C0huK1t0aC-j"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "Yes there is a 30% final exam",
+  "channelData": {
+    "clientActivityID": "1585750979808mxu98ceci1e",
+    "clientTimestamp": "2020-04-01T14:22:59.808Z"
+  }
+}

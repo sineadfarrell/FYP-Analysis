@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "4fWVV5LwR9O7NYLYeiZxVi-m|0000039",
+  "timestamp": "2020-04-01T17:51:33.7023915+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585763123",
+    "name": "elizabeth.burke",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "4fWVV5LwR9O7NYLYeiZxVi-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Nope",
+  "channelData": {
+    "clientActivityID": "15857635269603wy0qr9dxbk",
+    "clientTimestamp": "2020-04-01T17:52:06.96Z"
+  }
+}

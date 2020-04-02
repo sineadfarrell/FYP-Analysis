@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "JrKDRdsdpwe4dwsF8beFB0-m|0000040",
+  "timestamp": "2020-04-01T12:50:03.5489811+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585745131",
+    "name": "charles.kelly1",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "JrKDRdsdpwe4dwsF8beFB0-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "University sport",
+  "channelData": {
+    "clientActivityID": "158574540226150lcbk2ja5f",
+    "clientTimestamp": "2020-04-01T12:50:02.261Z"
+  }
+}

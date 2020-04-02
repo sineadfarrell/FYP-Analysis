@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "ElAXDvmzIan51Gst7WNlev-m|0000016",
+  "timestamp": "2020-04-01T10:02:29.6293962+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585735156",
+    "name": "sorcha.nicconmara",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "ElAXDvmzIan51Gst7WNlev-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "some are very good, others aren't",
+  "channelData": {
+    "clientActivityID": "1585735348391gokx6utlsca",
+    "clientTimestamp": "2020-04-01T10:02:28.392Z"
+  }
+}

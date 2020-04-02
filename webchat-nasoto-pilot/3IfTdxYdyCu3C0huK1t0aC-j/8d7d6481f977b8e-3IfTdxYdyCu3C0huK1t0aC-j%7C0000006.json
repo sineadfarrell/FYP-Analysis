@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "3IfTdxYdyCu3C0huK1t0aC-j|0000006",
+  "timestamp": "2020-04-01T14:22:35.2225166+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585750895",
+    "name": "chloe.foxe",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "3IfTdxYdyCu3C0huK1t0aC-j"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "I am taking 5 modules this semester",
+  "channelData": {
+    "clientActivityID": "1585750955137hzagr2fe8y6",
+    "clientTimestamp": "2020-04-01T14:22:35.137Z"
+  }
+}

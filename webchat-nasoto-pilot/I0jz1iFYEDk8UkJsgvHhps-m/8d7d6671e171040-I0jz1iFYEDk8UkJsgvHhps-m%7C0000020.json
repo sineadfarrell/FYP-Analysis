@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "I0jz1iFYEDk8UkJsgvHhps-m|0000020",
+  "timestamp": "2020-04-01T18:04:27.1018048+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585764169",
+    "name": "elizabeth.burke",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "I0jz1iFYEDk8UkJsgvHhps-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Software Engineering",
+  "channelData": {
+    "clientActivityID": "15857643003391j69jr2tlq4",
+    "clientTimestamp": "2020-04-01T18:05:00.34Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "2DIh7omK0DZ5efHo1inwXX-m|0000020",
+  "timestamp": "2020-04-01T12:57:50.9900718+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585745793",
+    "name": "charles.kelly1",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "2DIh7omK0DZ5efHo1inwXX-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "They are smart",
+  "channelData": {
+    "clientActivityID": "1585745869706vqwv3bl1lm",
+    "clientTimestamp": "2020-04-01T12:57:49.706Z"
+  }
+}

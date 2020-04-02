@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "4jAunvBUWqBAOL8ofNTBOg-m|0000013",
+  "timestamp": "2020-04-01T09:48:37.4880661+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585734379",
+    "name": "sorcha.nicconmara",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "4jAunvBUWqBAOL8ofNTBOg-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "I find it interesting and I like the lecturer",
+  "channelData": {
+    "clientActivityID": "15857345157177pgkh13u717",
+    "clientTimestamp": "2020-04-01T09:48:35.717Z"
+  }
+}

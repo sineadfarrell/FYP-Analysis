@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "3IfTdxYdyCu3C0huK1t0aC-j|0000043",
+  "timestamp": "2020-04-01T14:26:12.0278616+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585750895",
+    "name": "chloe.foxe",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "3IfTdxYdyCu3C0huK1t0aC-j"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "I play sport",
+  "channelData": {
+    "clientActivityID": "1585751171894g6sxpsk1apj",
+    "clientTimestamp": "2020-04-01T14:26:11.894Z"
+  }
+}

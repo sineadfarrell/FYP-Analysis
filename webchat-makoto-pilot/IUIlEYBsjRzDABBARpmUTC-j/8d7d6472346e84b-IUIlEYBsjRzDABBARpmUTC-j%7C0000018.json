@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "IUIlEYBsjRzDABBARpmUTC-j|0000018",
+  "timestamp": "2020-04-01T14:15:31.9086155+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585750368",
+    "name": "chloe.foxe",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "IUIlEYBsjRzDABBARpmUTC-j"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "I love playing sport in UCD",
+  "channelData": {
+    "clientActivityID": "1585750531696b6j2sp8hws",
+    "clientTimestamp": "2020-04-01T14:15:31.696Z"
+  }
+}

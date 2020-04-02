@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "IUIlEYBsjRzDABBARpmUTC-j|0000010",
+  "timestamp": "2020-04-01T14:14:23.662118+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585750368",
+    "name": "chloe.foxe",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "IUIlEYBsjRzDABBARpmUTC-j"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "yeah we have a final exam",
+  "channelData": {
+    "clientActivityID": "1585750463565q5py351dbx",
+    "clientTimestamp": "2020-04-01T14:14:23.566Z"
+  }
+}

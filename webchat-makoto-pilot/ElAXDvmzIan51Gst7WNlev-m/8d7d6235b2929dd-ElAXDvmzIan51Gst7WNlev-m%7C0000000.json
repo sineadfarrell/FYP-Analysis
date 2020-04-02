@@ -1,0 +1,34 @@
+{
+  "type": "message",
+  "id": "ElAXDvmzIan51Gst7WNlev-m|0000000",
+  "timestamp": "2020-04-01T09:59:23.7838301+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585735156",
+    "name": "sorcha.nicconmara",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "ElAXDvmzIan51Gst7WNlev-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "ready",
+  "entities": [
+    {
+      "type": "ClientCapabilities",
+      "requiresBotState": true,
+      "supportsListening": true,
+      "supportsTts": true
+    }
+  ],
+  "channelData": {
+    "clientActivityID": "1585735162295djtji5fwjyj",
+    "clientTimestamp": "2020-04-01T09:59:22.295Z"
+  }
+}

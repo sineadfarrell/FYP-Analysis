@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "JrKDRdsdpwe4dwsF8beFB0-m|0000021",
+  "timestamp": "2020-04-01T12:48:38.4198359+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585745131",
+    "name": "charles.kelly1",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "JrKDRdsdpwe4dwsF8beFB0-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "I don't",
+  "channelData": {
+    "clientActivityID": "1585745317120gs87man9r1d",
+    "clientTimestamp": "2020-04-01T12:48:37.12Z"
+  }
+}

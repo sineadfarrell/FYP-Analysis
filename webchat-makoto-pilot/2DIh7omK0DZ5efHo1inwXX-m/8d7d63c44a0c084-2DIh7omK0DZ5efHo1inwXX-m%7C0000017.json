@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "2DIh7omK0DZ5efHo1inwXX-m|0000017",
+  "timestamp": "2020-04-01T12:57:43.3982084+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585745793",
+    "name": "charles.kelly1",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "2DIh7omK0DZ5efHo1inwXX-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "I like animals",
+  "channelData": {
+    "clientActivityID": "1585745862118xnlvskgz1nl",
+    "clientTimestamp": "2020-04-01T12:57:42.118Z"
+  }
+}

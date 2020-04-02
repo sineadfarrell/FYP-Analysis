@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "I0jz1iFYEDk8UkJsgvHhps-m|0000029",
+  "timestamp": "2020-04-01T18:05:28.1688563+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585764169",
+    "name": "elizabeth.burke",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "I0jz1iFYEDk8UkJsgvHhps-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "No some are particularly incompetent",
+  "channelData": {
+    "clientActivityID": "1585764361426hksjuhqmaos",
+    "clientTimestamp": "2020-04-01T18:06:01.426Z"
+  }
+}

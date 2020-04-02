@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "4jAunvBUWqBAOL8ofNTBOg-m|0000026",
+  "timestamp": "2020-04-01T09:51:21.5457209+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585734379",
+    "name": "sorcha.nicconmara",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "4jAunvBUWqBAOL8ofNTBOg-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "sure",
+  "channelData": {
+    "clientActivityID": "1585734680908bdn6xlcvyb",
+    "clientTimestamp": "2020-04-01T09:51:20.908Z"
+  }
+}

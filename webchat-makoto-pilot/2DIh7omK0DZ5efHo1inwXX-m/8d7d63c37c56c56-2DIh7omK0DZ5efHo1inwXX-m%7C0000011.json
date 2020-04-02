@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "2DIh7omK0DZ5efHo1inwXX-m|0000011",
+  "timestamp": "2020-04-01T12:57:21.8281558+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585745793",
+    "name": "charles.kelly1",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "2DIh7omK0DZ5efHo1inwXX-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "My favourite is game development",
+  "channelData": {
+    "clientActivityID": "1585745840543c3yggfhx7j4",
+    "clientTimestamp": "2020-04-01T12:57:20.543Z"
+  }
+}

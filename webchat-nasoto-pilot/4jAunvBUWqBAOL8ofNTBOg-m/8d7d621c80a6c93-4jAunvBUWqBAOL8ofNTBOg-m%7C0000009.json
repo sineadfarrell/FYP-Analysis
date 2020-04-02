@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "4jAunvBUWqBAOL8ofNTBOg-m|0000009",
+  "timestamp": "2020-04-01T09:48:07.4605715+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585734379",
+    "name": "sorcha.nicconmara",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "4jAunvBUWqBAOL8ofNTBOg-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "My favourite is Recommender Systems & Collective Intelligence",
+  "channelData": {
+    "clientActivityID": "1585734486286sv0dapscpt",
+    "clientTimestamp": "2020-04-01T09:48:06.286Z"
+  }
+}

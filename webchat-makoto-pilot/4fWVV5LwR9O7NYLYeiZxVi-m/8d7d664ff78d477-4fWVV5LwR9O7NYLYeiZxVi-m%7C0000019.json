@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "4fWVV5LwR9O7NYLYeiZxVi-m|0000019",
+  "timestamp": "2020-04-01T17:49:16.7396983+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585763123",
+    "name": "elizabeth.burke",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "4fWVV5LwR9O7NYLYeiZxVi-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "very nice, she's personable and has great experience",
+  "channelData": {
+    "clientActivityID": "1585763389989okmxerlud4n",
+    "clientTimestamp": "2020-04-01T17:49:49.989Z"
+  }
+}

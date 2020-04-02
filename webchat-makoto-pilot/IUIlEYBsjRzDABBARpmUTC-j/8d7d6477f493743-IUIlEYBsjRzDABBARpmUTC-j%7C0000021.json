@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "IUIlEYBsjRzDABBARpmUTC-j|0000021",
+  "timestamp": "2020-04-01T14:18:06.2741315+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585750368",
+    "name": "chloe.foxe",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "IUIlEYBsjRzDABBARpmUTC-j"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "Hey",
+  "channelData": {
+    "clientActivityID": "1585750685598hzsoxjme45j",
+    "clientTimestamp": "2020-04-01T14:18:05.598Z"
+  }
+}

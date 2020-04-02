@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "JrKDRdsdpwe4dwsF8beFB0-m|0000059",
+  "timestamp": "2020-04-01T12:51:35.3925841+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585745131",
+    "name": "charles.kelly1",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "JrKDRdsdpwe4dwsF8beFB0-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "I can't go to college",
+  "channelData": {
+    "clientActivityID": "1585745494115rd7a7bg8sl8",
+    "clientTimestamp": "2020-04-01T12:51:34.115Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "3IfTdxYdyCu3C0huK1t0aC-j|0000033",
+  "timestamp": "2020-04-01T14:25:29.0413464+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585750895",
+    "name": "chloe.foxe",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "3IfTdxYdyCu3C0huK1t0aC-j"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "Accomodation",
+  "channelData": {
+    "clientActivityID": "1585751128940u1ihtk7v3jf",
+    "clientTimestamp": "2020-04-01T14:25:28.94Z"
+  }
+}

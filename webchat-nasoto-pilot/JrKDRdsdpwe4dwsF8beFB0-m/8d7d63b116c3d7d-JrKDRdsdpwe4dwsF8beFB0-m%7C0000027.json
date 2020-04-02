@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "JrKDRdsdpwe4dwsF8beFB0-m|0000027",
+  "timestamp": "2020-04-01T12:49:07.9935357+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1585745131",
+    "name": "charles.kelly1",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "JrKDRdsdpwe4dwsF8beFB0-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Bad lecturer",
+  "channelData": {
+    "clientActivityID": "1585745346716ian2vqre7f",
+    "clientTimestamp": "2020-04-01T12:49:06.716Z"
+  }
+}
