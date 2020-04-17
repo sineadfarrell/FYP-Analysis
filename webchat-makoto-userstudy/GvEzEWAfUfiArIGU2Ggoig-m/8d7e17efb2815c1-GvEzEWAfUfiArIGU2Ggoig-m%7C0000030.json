@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "GvEzEWAfUfiArIGU2Ggoig-m|0000030",
+  "timestamp": "2020-04-15T20:52:59.2051649+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586983844",
+    "name": "daire.murphy.2",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "GvEzEWAfUfiArIGU2Ggoig-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Spatial info systems",
+  "channelData": {
+    "clientActivityID": "1586983979659wewg12mwdim",
+    "clientTimestamp": "2020-04-15T20:52:59.659Z"
+  }
+}

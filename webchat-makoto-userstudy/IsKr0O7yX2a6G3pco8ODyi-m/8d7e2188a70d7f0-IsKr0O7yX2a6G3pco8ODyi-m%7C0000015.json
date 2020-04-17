@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "IsKr0O7yX2a6G3pco8ODyi-m|0000015",
+  "timestamp": "2020-04-16T15:12:12.5958128+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587049858",
+    "name": "amina.khalid",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "IsKr0O7yX2a6G3pco8ODyi-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "they're nice",
+  "channelData": {
+    "clientActivityID": "15870499312036ctfy2onzas",
+    "clientTimestamp": "2020-04-16T15:12:11.203Z"
+  }
+}

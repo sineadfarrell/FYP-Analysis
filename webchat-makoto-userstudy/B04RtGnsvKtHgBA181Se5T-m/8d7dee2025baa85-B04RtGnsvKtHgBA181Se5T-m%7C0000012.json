@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "B04RtGnsvKtHgBA181Se5T-m|0000012",
+  "timestamp": "2020-04-12T13:04:17.9751557+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586696608",
+    "name": "nikolaj.jasenko",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "B04RtGnsvKtHgBA181Se5T-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Relates to my career path",
+  "channelData": {
+    "clientActivityID": "1586696657970ve872g0s2am",
+    "clientTimestamp": "2020-04-12T13:04:17.97Z"
+  }
+}

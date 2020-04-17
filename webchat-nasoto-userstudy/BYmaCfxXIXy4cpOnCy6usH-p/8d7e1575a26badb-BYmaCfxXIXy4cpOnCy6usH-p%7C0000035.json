@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "BYmaCfxXIXy4cpOnCy6usH-p|0000035",
+  "timestamp": "2020-04-15T16:09:18.7106523+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586966782",
+    "name": "conor.beenham",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "BYmaCfxXIXy4cpOnCy6usH-p"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "sure",
+  "channelData": {
+    "clientActivityID": "1586966960977wt91s5x9kxr",
+    "clientTimestamp": "2020-04-15T16:09:20.977Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "LI8H2HJBjvo1HL9TjaSHaW-m|0000014",
+  "timestamp": "2020-04-16T13:34:02.4720119+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587043887",
+    "name": "jeremiah.wangaruro",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "LI8H2HJBjvo1HL9TjaSHaW-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Spatial",
+  "channelData": {
+    "clientActivityID": "1587044041291yqr2t996o8",
+    "clientTimestamp": "2020-04-16T13:34:01.291Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "2NI5koWve1OC83kG3NYcnM-p|0000003",
+  "timestamp": "2020-04-11T11:48:56.0340123+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586605693",
+    "name": "george.ridgway",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "2NI5koWve1OC83kG3NYcnM-p"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "George Ridgway",
+  "channelData": {
+    "clientActivityID": "1586605735986x8xwixqf0cj",
+    "clientTimestamp": "2020-04-11T11:48:55.986Z"
+  }
+}

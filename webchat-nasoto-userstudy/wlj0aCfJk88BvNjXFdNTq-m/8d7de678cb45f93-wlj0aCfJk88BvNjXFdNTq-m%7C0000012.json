@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "wlj0aCfJk88BvNjXFdNTq-m|0000012",
+  "timestamp": "2020-04-11T22:27:41.9843475+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586643903",
+    "name": "mohamed.jama",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "wlj0aCfJk88BvNjXFdNTq-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "because it allows me to have more freedom when it comes to the coding and implementation of design in the software then in other modules.",
+  "channelData": {
+    "clientActivityID": "1586644061949ufb6ul77yf",
+    "clientTimestamp": "2020-04-11T22:27:41.949Z"
+  }
+}

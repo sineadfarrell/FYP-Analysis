@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "JNHyaeBHmhs53fAL5eFcGe-m|0000034",
+  "timestamp": "2020-04-15T16:34:38.5801332+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586967915",
+    "name": "zachary.oconnor",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "JNHyaeBHmhs53fAL5eFcGe-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Are we done?",
+  "channelData": {
+    "clientActivityID": "15869684773413db2gztb7f8",
+    "clientTimestamp": "2020-04-15T16:34:37.341Z"
+  }
+}

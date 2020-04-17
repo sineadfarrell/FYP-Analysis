@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "VG30iMMCO9BXrnSaSQmsI-m|0000024",
+  "timestamp": "2020-04-11T12:17:38.3119684+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586607326",
+    "name": "oisin.quinn",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "VG30iMMCO9BXrnSaSQmsI-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "It depends, I'd use the shops and the library a fair bit (but not so much these days)",
+  "channelData": {
+    "clientActivityID": "1586607458178yi6umy3j8bl",
+    "clientTimestamp": "2020-04-11T12:17:38.178Z"
+  }
+}

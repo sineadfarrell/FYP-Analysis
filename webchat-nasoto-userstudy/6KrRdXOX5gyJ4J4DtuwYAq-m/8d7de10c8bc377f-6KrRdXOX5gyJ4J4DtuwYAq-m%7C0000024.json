@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "6KrRdXOX5gyJ4J4DtuwYAq-m|0000024",
+  "timestamp": "2020-04-11T12:06:36.4835711+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586606605",
+    "name": "oisin.quinn",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "6KrRdXOX5gyJ4J4DtuwYAq-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "The lecturer is hard to contact these days, which is really frustrating",
+  "channelData": {
+    "clientActivityID": "1586606794641lncalgmgv7",
+    "clientTimestamp": "2020-04-11T12:06:34.641Z"
+  }
+}

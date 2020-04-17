@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "6KrRdXOX5gyJ4J4DtuwYAq-m|0000030",
+  "timestamp": "2020-04-11T12:07:01.6711919+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586606605",
+    "name": "oisin.quinn",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "6KrRdXOX5gyJ4J4DtuwYAq-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "I don't like the teacher",
+  "channelData": {
+    "clientActivityID": "1586606819832nz8m6kdl4b",
+    "clientTimestamp": "2020-04-11T12:06:59.832Z"
+  }
+}

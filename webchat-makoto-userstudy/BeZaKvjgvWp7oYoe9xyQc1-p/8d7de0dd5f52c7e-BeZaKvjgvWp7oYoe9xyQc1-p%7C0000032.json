@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "BeZaKvjgvWp7oYoe9xyQc1-p|0000032",
+  "timestamp": "2020-04-11T11:45:30.1770366+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586605218",
+    "name": "george.ridgway",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "BeZaKvjgvWp7oYoe9xyQc1-p"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Alot of my time is spent working, but I enjoy going on walks with my girlfriend",
+  "channelData": {
+    "clientActivityID": "1586605530119b2yt6bwy5en",
+    "clientTimestamp": "2020-04-11T11:45:30.119Z"
+  }
+}

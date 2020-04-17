@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "GvEzEWAfUfiArIGU2Ggoig-m|0000020",
+  "timestamp": "2020-04-15T20:52:27.4131977+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586983844",
+    "name": "daire.murphy.2",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "GvEzEWAfUfiArIGU2Ggoig-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Extracurricular activites",
+  "channelData": {
+    "clientActivityID": "1586983947876ttlcc4vi6y",
+    "clientTimestamp": "2020-04-15T20:52:27.876Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "7Rp1QFEAZyOIGaAxJqOXSy-m|0000013",
+  "timestamp": "2020-04-11T22:17:24.7704664+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586643316",
+    "name": "mohamed.jama",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "7Rp1QFEAZyOIGaAxJqOXSy-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Yes there is a final exam, it is oral",
+  "channelData": {
+    "clientActivityID": "1586643444751dx0uskud6u",
+    "clientTimestamp": "2020-04-11T22:17:24.751Z"
+  }
+}

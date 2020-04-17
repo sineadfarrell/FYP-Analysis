@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "BnOmNjV7h9rDfZ7B09Jzyw-m|0000025",
+  "timestamp": "2020-04-16T15:08:47.2979361+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587049409",
+    "name": "amina.khalid",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "BnOmNjV7h9rDfZ7B09Jzyw-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "no",
+  "channelData": {
+    "clientActivityID": "1587049725990ryfiohcv06e",
+    "clientTimestamp": "2020-04-16T15:08:45.99Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "B4HsuOVng7O69Vi72Z6utd-m|0000042",
+  "timestamp": "2020-04-15T17:23:16.3984508+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586971013",
+    "name": "orla.keating",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "B4HsuOVng7O69Vi72Z6utd-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "extracurricular activities archery",
+  "channelData": {
+    "clientActivityID": "1586971395584233jx0rv5xk",
+    "clientTimestamp": "2020-04-15T17:23:15.584Z"
+  }
+}

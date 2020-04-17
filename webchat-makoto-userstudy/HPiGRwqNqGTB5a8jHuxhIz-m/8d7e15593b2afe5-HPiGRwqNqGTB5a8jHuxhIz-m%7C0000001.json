@@ -1,0 +1,34 @@
+{
+  "type": "message",
+  "id": "HPiGRwqNqGTB5a8jHuxhIz-m|0000001",
+  "timestamp": "2020-04-15T15:56:36.2645477+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586966191",
+    "name": "kiowa.daly",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "HPiGRwqNqGTB5a8jHuxhIz-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-GB",
+  "text": "hi",
+  "entities": [
+    {
+      "type": "ClientCapabilities",
+      "requiresBotState": true,
+      "supportsListening": true,
+      "supportsTts": true
+    }
+  ],
+  "channelData": {
+    "clientActivityID": "1586966195513dyn5zm1gsms",
+    "clientTimestamp": "2020-04-15T15:56:35.513Z"
+  }
+}

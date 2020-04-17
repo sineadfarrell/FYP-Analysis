@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "EqS5HLIA3YJ6kCJJmka1KE-m|0000006",
+  "timestamp": "2020-04-15T16:53:47.5081911+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586969589",
+    "name": "zachary.oconnor",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "EqS5HLIA3YJ6kCJJmka1KE-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "I'm taking 5 modules this trimester",
+  "channelData": {
+    "clientActivityID": "15869696262637slh9hipwqo",
+    "clientTimestamp": "2020-04-15T16:53:46.263Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "7ujZN9MyXwYKRDE4siotyu-m|0000015",
+  "timestamp": "2020-04-16T19:36:21.7385204+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587065711",
+    "name": "rahul",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "7ujZN9MyXwYKRDE4siotyu-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Theyre good, could be better",
+  "channelData": {
+    "clientActivityID": "1587065781154h8qd9xir75d",
+    "clientTimestamp": "2020-04-16T19:36:21.154Z"
+  }
+}

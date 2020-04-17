@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "K330upLFfi5ARp0ysebgp-m|0000010",
+  "timestamp": "2020-04-15T15:51:56.6754136+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586965744",
+    "name": "kiowa.daly",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "K330upLFfi5ARp0ysebgp-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-GB",
+  "text": "yes",
+  "channelData": {
+    "clientActivityID": "1586965915933tjvigepk5o8",
+    "clientTimestamp": "2020-04-15T15:51:55.933Z"
+  }
+}

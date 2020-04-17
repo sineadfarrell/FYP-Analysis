@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "1M2zww2fDQUnuxao4PFkq-m|0000043",
+  "timestamp": "2020-04-15T17:36:00.6862619+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586971756",
+    "name": "orla.keating",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "1M2zww2fDQUnuxao4PFkq-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "I would use some fairly often",
+  "channelData": {
+    "clientActivityID": "15869721599017gq9jcgnjer",
+    "clientTimestamp": "2020-04-15T17:35:59.901Z"
+  }
+}

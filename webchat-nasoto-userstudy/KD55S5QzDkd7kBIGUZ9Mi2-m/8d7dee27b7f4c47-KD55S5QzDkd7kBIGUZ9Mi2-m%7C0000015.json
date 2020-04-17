@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "KD55S5QzDkd7kBIGUZ9Mi2-m|0000015",
+  "timestamp": "2020-04-12T13:07:41.2129863+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586696796",
+    "name": "nikolaj.jasenko",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "KD55S5QzDkd7kBIGUZ9Mi2-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "4",
+  "channelData": {
+    "clientActivityID": "15866968612016vcv9dim9ay",
+    "clientTimestamp": "2020-04-12T13:07:41.201Z"
+  }
+}

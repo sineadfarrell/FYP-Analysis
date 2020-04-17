@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "6KrRdXOX5gyJ4J4DtuwYAq-m|0000035",
+  "timestamp": "2020-04-11T12:07:36.8714261+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586606605",
+    "name": "oisin.quinn",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "6KrRdXOX5gyJ4J4DtuwYAq-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "I like the vast majority of them!",
+  "channelData": {
+    "clientActivityID": "1586606855033y5xv1g831df",
+    "clientTimestamp": "2020-04-11T12:07:35.033Z"
+  }
+}

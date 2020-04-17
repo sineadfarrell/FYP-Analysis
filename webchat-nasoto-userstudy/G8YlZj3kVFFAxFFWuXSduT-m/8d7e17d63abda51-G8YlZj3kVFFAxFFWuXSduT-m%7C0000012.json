@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "G8YlZj3kVFFAxFFWuXSduT-m|0000012",
+  "timestamp": "2020-04-15T20:41:35.5583057+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586983206",
+    "name": "daire.murphy.2",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "G8YlZj3kVFFAxFFWuXSduT-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Very little work to do for it",
+  "channelData": {
+    "clientActivityID": "1586983296024hbqu36bs7ra",
+    "clientTimestamp": "2020-04-15T20:41:36.024Z"
+  }
+}

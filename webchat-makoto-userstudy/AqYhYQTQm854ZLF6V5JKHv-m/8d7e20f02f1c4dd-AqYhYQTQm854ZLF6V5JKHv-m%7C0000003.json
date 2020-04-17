@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "AqYhYQTQm854ZLF6V5JKHv-m|0000003",
+  "timestamp": "2020-04-16T14:03:59.8000349+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587045823",
+    "name": "sophie.oneill1",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "AqYhYQTQm854ZLF6V5JKHv-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Sophie",
+  "channelData": {
+    "clientActivityID": "15870458389759qndjix2vk",
+    "clientTimestamp": "2020-04-16T14:03:58.975Z"
+  }
+}

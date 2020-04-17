@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "1M2zww2fDQUnuxao4PFkq-m|0000024",
+  "timestamp": "2020-04-15T17:34:08.5103069+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586971756",
+    "name": "orla.keating",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "1M2zww2fDQUnuxao4PFkq-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "I don't understand it",
+  "channelData": {
+    "clientActivityID": "1586972047721we0jcsiugkj",
+    "clientTimestamp": "2020-04-15T17:34:07.721Z"
+  }
+}

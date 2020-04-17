@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "GvEzEWAfUfiArIGU2Ggoig-m|0000054",
+  "timestamp": "2020-04-15T20:54:57.0443748+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586983844",
+    "name": "daire.murphy.2",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "GvEzEWAfUfiArIGU2Ggoig-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "No",
+  "channelData": {
+    "clientActivityID": "1586984097497fc7omemlyym",
+    "clientTimestamp": "2020-04-15T20:54:57.497Z"
+  }
+}

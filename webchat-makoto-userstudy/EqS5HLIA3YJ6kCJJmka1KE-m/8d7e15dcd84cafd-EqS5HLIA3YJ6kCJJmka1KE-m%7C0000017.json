@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "EqS5HLIA3YJ6kCJJmka1KE-m|0000017",
+  "timestamp": "2020-04-15T16:55:29.2454653+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586969589",
+    "name": "zachary.oconnor",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "EqS5HLIA3YJ6kCJJmka1KE-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Some lecturers are very good. But others I don't like so much",
+  "channelData": {
+    "clientActivityID": "1586969728003e10guppryfm",
+    "clientTimestamp": "2020-04-15T16:55:28.003Z"
+  }
+}

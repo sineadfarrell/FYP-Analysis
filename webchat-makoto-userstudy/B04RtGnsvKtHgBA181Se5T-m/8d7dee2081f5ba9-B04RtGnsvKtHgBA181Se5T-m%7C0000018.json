@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "B04RtGnsvKtHgBA181Se5T-m|0000018",
+  "timestamp": "2020-04-12T13:04:27.6462505+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586696608",
+    "name": "nikolaj.jasenko",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "B04RtGnsvKtHgBA181Se5T-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "No",
+  "channelData": {
+    "clientActivityID": "1586696667633q4s8afftl9e",
+    "clientTimestamp": "2020-04-12T13:04:27.633Z"
+  }
+}

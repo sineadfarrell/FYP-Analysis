@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "6KrRdXOX5gyJ4J4DtuwYAq-m|0000010",
+  "timestamp": "2020-04-11T12:04:45.6531861+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586606605",
+    "name": "oisin.quinn",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "6KrRdXOX5gyJ4J4DtuwYAq-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Me too!",
+  "channelData": {
+    "clientActivityID": "1586606683769hrvtb2rt73h",
+    "clientTimestamp": "2020-04-11T12:04:43.769Z"
+  }
+}

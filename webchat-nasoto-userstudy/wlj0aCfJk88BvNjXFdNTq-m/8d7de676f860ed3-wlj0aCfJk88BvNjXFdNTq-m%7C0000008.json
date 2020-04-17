@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "wlj0aCfJk88BvNjXFdNTq-m|0000008",
+  "timestamp": "2020-04-11T22:26:53.0268883+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586643903",
+    "name": "mohamed.jama",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "wlj0aCfJk88BvNjXFdNTq-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "my favourite module is Game Development. Why is secure software engineering your favourite?",
+  "channelData": {
+    "clientActivityID": "1586644012987rttovcwlgba",
+    "clientTimestamp": "2020-04-11T22:26:52.988Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "7Rp1QFEAZyOIGaAxJqOXSy-m|0000035",
+  "timestamp": "2020-04-11T22:21:21.2024293+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586643316",
+    "name": "mohamed.jama",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "7Rp1QFEAZyOIGaAxJqOXSy-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "I am only studying and doing assignments at home now",
+  "channelData": {
+    "clientActivityID": "1586643681176in5jfsqc8bo",
+    "clientTimestamp": "2020-04-11T22:21:21.176Z"
+  }
+}

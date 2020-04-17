@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "HPiGRwqNqGTB5a8jHuxhIz-m|0000017",
+  "timestamp": "2020-04-15T15:57:51.1524462+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586966191",
+    "name": "kiowa.daly",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "HPiGRwqNqGTB5a8jHuxhIz-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-GB",
+  "text": "some are okay, most are awful",
+  "channelData": {
+    "clientActivityID": "15869662704002i2ff4jgvch",
+    "clientTimestamp": "2020-04-15T15:57:50.4Z"
+  }
+}

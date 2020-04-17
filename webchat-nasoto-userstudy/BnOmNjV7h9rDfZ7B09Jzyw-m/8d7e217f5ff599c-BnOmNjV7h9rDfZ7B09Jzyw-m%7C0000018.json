@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "BnOmNjV7h9rDfZ7B09Jzyw-m|0000018",
+  "timestamp": "2020-04-16T15:08:03.5492252+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587049409",
+    "name": "amina.khalid",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "BnOmNjV7h9rDfZ7B09Jzyw-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "some very complicated topics that are hard to get my head around with",
+  "channelData": {
+    "clientActivityID": "15870496823626tr2x9ab3v9",
+    "clientTimestamp": "2020-04-16T15:08:02.362Z"
+  }
+}

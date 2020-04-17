@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "IsKr0O7yX2a6G3pco8ODyi-m|0000012",
+  "timestamp": "2020-04-16T15:12:04.1269941+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587049858",
+    "name": "amina.khalid",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "IsKr0O7yX2a6G3pco8ODyi-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "we conduct experiments which involve designing which i like",
+  "channelData": {
+    "clientActivityID": "15870499227555hxkmhajyt",
+    "clientTimestamp": "2020-04-16T15:12:02.755Z"
+  }
+}

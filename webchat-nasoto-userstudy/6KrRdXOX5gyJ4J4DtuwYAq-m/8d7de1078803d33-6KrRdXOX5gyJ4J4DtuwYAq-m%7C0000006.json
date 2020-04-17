@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "6KrRdXOX5gyJ4J4DtuwYAq-m|0000006",
+  "timestamp": "2020-04-11T12:04:21.8727731+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586606605",
+    "name": "oisin.quinn",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "6KrRdXOX5gyJ4J4DtuwYAq-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "I'm taking 5 modules",
+  "channelData": {
+    "clientActivityID": "1586606659963hsl14w50v96",
+    "clientTimestamp": "2020-04-11T12:04:19.963Z"
+  }
+}

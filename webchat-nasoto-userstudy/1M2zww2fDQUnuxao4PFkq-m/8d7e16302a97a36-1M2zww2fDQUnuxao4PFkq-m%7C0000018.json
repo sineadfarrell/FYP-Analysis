@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "1M2zww2fDQUnuxao4PFkq-m|0000018",
+  "timestamp": "2020-04-15T17:32:45.8887734+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586971756",
+    "name": "orla.keating",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "1M2zww2fDQUnuxao4PFkq-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "I have no idea what is happening or how to do the assignments",
+  "channelData": {
+    "clientActivityID": "158697196509872xz5o06p7e",
+    "clientTimestamp": "2020-04-15T17:32:45.098Z"
+  }
+}

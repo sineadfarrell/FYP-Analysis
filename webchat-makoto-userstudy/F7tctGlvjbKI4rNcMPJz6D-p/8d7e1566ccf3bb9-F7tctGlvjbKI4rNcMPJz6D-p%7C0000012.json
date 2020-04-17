@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "F7tctGlvjbKI4rNcMPJz6D-p|0000012",
+  "timestamp": "2020-04-15T16:02:40.5172153+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586966497",
+    "name": "conor.beenham",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "F7tctGlvjbKI4rNcMPJz6D-p"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "interesting topic and a good balance of workload",
+  "channelData": {
+    "clientActivityID": "15869665627818dn93jahrk7",
+    "clientTimestamp": "2020-04-15T16:02:42.781Z"
+  }
+}

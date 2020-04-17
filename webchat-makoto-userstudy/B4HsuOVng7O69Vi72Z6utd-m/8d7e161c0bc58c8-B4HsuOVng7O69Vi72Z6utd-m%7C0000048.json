@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "B4HsuOVng7O69Vi72Z6utd-m|0000048",
+  "timestamp": "2020-04-15T17:23:45.7860808+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586971013",
+    "name": "orla.keating",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "B4HsuOVng7O69Vi72Z6utd-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "ok",
+  "channelData": {
+    "clientActivityID": "158697142500738ej40xfjo2",
+    "clientTimestamp": "2020-04-15T17:23:45.007Z"
+  }
+}

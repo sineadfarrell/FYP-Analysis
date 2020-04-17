@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "KD55S5QzDkd7kBIGUZ9Mi2-m|0000026",
+  "timestamp": "2020-04-12T13:08:23.6876102+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586696796",
+    "name": "nikolaj.jasenko",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "KD55S5QzDkd7kBIGUZ9Mi2-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Small class and material is quite easy",
+  "channelData": {
+    "clientActivityID": "1586696903658ec0nmjhwsei",
+    "clientTimestamp": "2020-04-12T13:08:23.658Z"
+  }
+}

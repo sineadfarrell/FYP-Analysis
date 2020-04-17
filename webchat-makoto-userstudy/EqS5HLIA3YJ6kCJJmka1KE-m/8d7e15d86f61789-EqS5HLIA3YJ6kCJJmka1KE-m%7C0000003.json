@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "EqS5HLIA3YJ6kCJJmka1KE-m|0000003",
+  "timestamp": "2020-04-15T16:53:30.8697481+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586969589",
+    "name": "zachary.oconnor",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "EqS5HLIA3YJ6kCJJmka1KE-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "my name is Zach",
+  "channelData": {
+    "clientActivityID": "1586969609636e2ld9mlqjgo",
+    "clientTimestamp": "2020-04-15T16:53:29.637Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "VG30iMMCO9BXrnSaSQmsI-m|0000010",
+  "timestamp": "2020-04-11T12:16:18.5360297+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586607326",
+    "name": "oisin.quinn",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "VG30iMMCO9BXrnSaSQmsI-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Nope, that's why I like it!",
+  "channelData": {
+    "clientActivityID": "158660737846122rcoa9ijbw",
+    "clientTimestamp": "2020-04-11T12:16:18.461Z"
+  }
+}

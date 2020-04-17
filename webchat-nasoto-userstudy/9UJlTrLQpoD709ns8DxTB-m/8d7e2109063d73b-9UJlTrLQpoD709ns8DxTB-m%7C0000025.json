@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "9UJlTrLQpoD709ns8DxTB-m|0000025",
+  "timestamp": "2020-04-16T14:15:06.6030907+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587046300",
+    "name": "sophie.oneill1",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "9UJlTrLQpoD709ns8DxTB-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "They are",
+  "channelData": {
+    "clientActivityID": "1587046505766wl07u1504qi",
+    "clientTimestamp": "2020-04-16T14:15:05.766Z"
+  }
+}

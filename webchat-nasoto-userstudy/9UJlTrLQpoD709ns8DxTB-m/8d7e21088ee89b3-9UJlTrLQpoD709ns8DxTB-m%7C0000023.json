@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "9UJlTrLQpoD709ns8DxTB-m|0000023",
+  "timestamp": "2020-04-16T14:14:54.0902835+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587046300",
+    "name": "sophie.oneill1",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "9UJlTrLQpoD709ns8DxTB-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "They are all friendly this semester",
+  "channelData": {
+    "clientActivityID": "15870464930370msda7py0a2d",
+    "clientTimestamp": "2020-04-16T14:14:53.037Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "LI8H2HJBjvo1HL9TjaSHaW-m|0000010",
+  "timestamp": "2020-04-16T13:33:23.4497827+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587043887",
+    "name": "jeremiah.wangaruro",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "LI8H2HJBjvo1HL9TjaSHaW-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Yeah, it's suppose to be hard",
+  "channelData": {
+    "clientActivityID": "15870440023068rpb2mcq4ag",
+    "clientTimestamp": "2020-04-16T13:33:22.306Z"
+  }
+}

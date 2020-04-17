@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "wlj0aCfJk88BvNjXFdNTq-m|0000043",
+  "timestamp": "2020-04-11T22:32:59.9314599+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586643903",
+    "name": "mohamed.jama",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "wlj0aCfJk88BvNjXFdNTq-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "wow",
+  "channelData": {
+    "clientActivityID": "15866443799182lcpbnk3a2u",
+    "clientTimestamp": "2020-04-11T22:32:59.918Z"
+  }
+}

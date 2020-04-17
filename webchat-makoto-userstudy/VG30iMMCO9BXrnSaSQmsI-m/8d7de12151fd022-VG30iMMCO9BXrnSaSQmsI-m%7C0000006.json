@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "VG30iMMCO9BXrnSaSQmsI-m|0000006",
+  "timestamp": "2020-04-11T12:15:54.1398562+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586607326",
+    "name": "oisin.quinn",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "VG30iMMCO9BXrnSaSQmsI-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "I'm taking five at the moment",
+  "channelData": {
+    "clientActivityID": "1586607354056wjigcdk4dwg",
+    "clientTimestamp": "2020-04-11T12:15:54.056Z"
+  }
+}

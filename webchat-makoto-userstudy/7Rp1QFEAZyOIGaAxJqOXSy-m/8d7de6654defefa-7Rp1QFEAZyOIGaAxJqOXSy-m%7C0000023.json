@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "7Rp1QFEAZyOIGaAxJqOXSy-m|0000023",
+  "timestamp": "2020-04-11T22:18:58.8145402+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586643316",
+    "name": "mohamed.jama",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "7Rp1QFEAZyOIGaAxJqOXSy-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "lets talk about campus",
+  "channelData": {
+    "clientActivityID": "15866435387752589exyqrbh",
+    "clientTimestamp": "2020-04-11T22:18:58.775Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "AqYhYQTQm854ZLF6V5JKHv-m|0000010",
+  "timestamp": "2020-04-16T14:05:00.9188888+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587045823",
+    "name": "sophie.oneill1",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "AqYhYQTQm854ZLF6V5JKHv-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Information ethics is my favourite",
+  "channelData": {
+    "clientActivityID": "1587045900091oao64tmpi1d",
+    "clientTimestamp": "2020-04-16T14:05:00.091Z"
+  }
+}

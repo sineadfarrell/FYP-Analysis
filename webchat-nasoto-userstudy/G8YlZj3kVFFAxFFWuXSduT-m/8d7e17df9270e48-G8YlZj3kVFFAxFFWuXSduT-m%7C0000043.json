@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "G8YlZj3kVFFAxFFWuXSduT-m|0000043",
+  "timestamp": "2020-04-15T20:45:46.3462472+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586983206",
+    "name": "daire.murphy.2",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "G8YlZj3kVFFAxFFWuXSduT-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Bye",
+  "channelData": {
+    "clientActivityID": "1586983546796ahiyfb5wr3",
+    "clientTimestamp": "2020-04-15T20:45:46.796Z"
+  }
+}

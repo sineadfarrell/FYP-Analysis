@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "9UJlTrLQpoD709ns8DxTB-m|0000010",
+  "timestamp": "2020-04-16T14:12:36.5102347+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587046300",
+    "name": "sophie.oneill1",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "9UJlTrLQpoD709ns8DxTB-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Information ethics",
+  "channelData": {
+    "clientActivityID": "1587046355671xqabn9vd51p",
+    "clientTimestamp": "2020-04-16T14:12:35.671Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "9UJlTrLQpoD709ns8DxTB-m|0000018",
+  "timestamp": "2020-04-16T14:14:04.1014152+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587046300",
+    "name": "sophie.oneill1",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "9UJlTrLQpoD709ns8DxTB-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Yes, a take home exam and an online timed exam",
+  "channelData": {
+    "clientActivityID": "1587046443270ynfxatd61p",
+    "clientTimestamp": "2020-04-16T14:14:03.271Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "7ujZN9MyXwYKRDE4siotyu-m|0000012",
+  "timestamp": "2020-04-16T19:36:11.3580371+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587065711",
+    "name": "rahul",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "7ujZN9MyXwYKRDE4siotyu-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "More practical work, less theory",
+  "channelData": {
+    "clientActivityID": "1587065770774b7ia5xaeo5a",
+    "clientTimestamp": "2020-04-16T19:36:10.774Z"
+  }
+}

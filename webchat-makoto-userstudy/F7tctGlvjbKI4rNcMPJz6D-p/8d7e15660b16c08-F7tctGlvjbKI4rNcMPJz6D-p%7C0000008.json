@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "F7tctGlvjbKI4rNcMPJz6D-p|0000008",
+  "timestamp": "2020-04-15T16:02:20.1891848+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586966497",
+    "name": "conor.beenham",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "F7tctGlvjbKI4rNcMPJz6D-p"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Secure software engineering",
+  "channelData": {
+    "clientActivityID": "1586966542460ref9d01yd99",
+    "clientTimestamp": "2020-04-15T16:02:22.461Z"
+  }
+}

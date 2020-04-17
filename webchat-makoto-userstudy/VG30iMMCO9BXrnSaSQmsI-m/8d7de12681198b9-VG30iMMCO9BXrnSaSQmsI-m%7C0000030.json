@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "VG30iMMCO9BXrnSaSQmsI-m|0000030",
+  "timestamp": "2020-04-11T12:18:13.2975801+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586607326",
+    "name": "oisin.quinn",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "VG30iMMCO9BXrnSaSQmsI-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "I think it was a good call, but kinda sad to not see my friends anymore :(",
+  "channelData": {
+    "clientActivityID": "1586607493206d430z38x0wg",
+    "clientTimestamp": "2020-04-11T12:18:13.206Z"
+  }
+}

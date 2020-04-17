@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "F7tctGlvjbKI4rNcMPJz6D-p|0000034",
+  "timestamp": "2020-04-15T16:04:47.5546522+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586966497",
+    "name": "conor.beenham",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "F7tctGlvjbKI4rNcMPJz6D-p"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "you too",
+  "channelData": {
+    "clientActivityID": "1586966689819zeqpei4uti",
+    "clientTimestamp": "2020-04-15T16:04:49.819Z"
+  }
+}

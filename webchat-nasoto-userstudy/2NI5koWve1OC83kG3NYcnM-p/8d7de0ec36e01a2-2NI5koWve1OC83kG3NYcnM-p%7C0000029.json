@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "2NI5koWve1OC83kG3NYcnM-p|0000029",
+  "timestamp": "2020-04-11T11:52:08.5889442+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586605693",
+    "name": "george.ridgway",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "2NI5koWve1OC83kG3NYcnM-p"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "ucd campus",
+  "channelData": {
+    "clientActivityID": "1586605928541k3wc5l2tx7e",
+    "clientTimestamp": "2020-04-11T11:52:08.541Z"
+  }
+}

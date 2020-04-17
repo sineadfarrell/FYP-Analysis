@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "JNHyaeBHmhs53fAL5eFcGe-m|0000062",
+  "timestamp": "2020-04-15T16:44:35.4849898+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586967915",
+    "name": "zachary.oconnor",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "JNHyaeBHmhs53fAL5eFcGe-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Bye",
+  "channelData": {
+    "clientActivityID": "1586969074241092pkoo609bb",
+    "clientTimestamp": "2020-04-15T16:44:34.241Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "JNHyaeBHmhs53fAL5eFcGe-m|0000016",
+  "timestamp": "2020-04-15T16:30:49.0697371+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586967915",
+    "name": "zachary.oconnor",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "JNHyaeBHmhs53fAL5eFcGe-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "No, most of the marks are for an individual project he's given out. The rest of the marks are for reading assignments",
+  "channelData": {
+    "clientActivityID": "1586968247829e6yy71cx1i6",
+    "clientTimestamp": "2020-04-15T16:30:47.829Z"
+  }
+}

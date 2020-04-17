@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "7Rp1QFEAZyOIGaAxJqOXSy-m|0000029",
+  "timestamp": "2020-04-11T22:20:39.8908667+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586643316",
+    "name": "mohamed.jama",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "7Rp1QFEAZyOIGaAxJqOXSy-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "I can no longer use any of these facilities at all.",
+  "channelData": {
+    "clientActivityID": "1586643639856j0jziv3bqy9",
+    "clientTimestamp": "2020-04-11T22:20:39.856Z"
+  }
+}

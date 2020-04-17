@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "EqS5HLIA3YJ6kCJJmka1KE-m|0000026",
+  "timestamp": "2020-04-15T16:56:16.227002+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586969589",
+    "name": "zachary.oconnor",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "EqS5HLIA3YJ6kCJJmka1KE-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Yes, I use the gym and sport centres often, and the library a lot",
+  "channelData": {
+    "clientActivityID": "1586969774888d8m2cyfs7fd",
+    "clientTimestamp": "2020-04-15T16:56:14.888Z"
+  }
+}

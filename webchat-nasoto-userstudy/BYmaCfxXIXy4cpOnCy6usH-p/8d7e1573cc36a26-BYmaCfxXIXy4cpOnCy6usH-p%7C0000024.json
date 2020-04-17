@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "BYmaCfxXIXy4cpOnCy6usH-p|0000024",
+  "timestamp": "2020-04-15T16:08:29.4058534+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1586966782",
+    "name": "conor.beenham",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "BYmaCfxXIXy4cpOnCy6usH-p"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "there is a lack of communication regarding the coordinator",
+  "channelData": {
+    "clientActivityID": "1586966911662fvsrozd611",
+    "clientTimestamp": "2020-04-15T16:08:31.662Z"
+  }
+}
