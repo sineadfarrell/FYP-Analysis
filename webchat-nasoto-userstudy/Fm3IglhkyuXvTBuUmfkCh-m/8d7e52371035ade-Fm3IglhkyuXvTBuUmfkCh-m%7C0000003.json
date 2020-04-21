@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "Fm3IglhkyuXvTBuUmfkCh-m|0000003",
+  "timestamp": "2020-04-20T12:07:47.887587+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587384455",
+    "name": "alicia.browne",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "Fm3IglhkyuXvTBuUmfkCh-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Ali",
+  "channelData": {
+    "clientActivityID": "1587384469059qakxb8pw38",
+    "clientTimestamp": "2020-04-20T12:07:49.059Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "3V5lfBf5j8NAJx91hMtcYN-h|0000029",
+  "timestamp": "2020-04-17T12:29:01.3310593+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587126261",
+    "name": "tara.mcgirl",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "3V5lfBf5j8NAJx91hMtcYN-h"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "I have a mix of different lectures, some are good, some are bad",
+  "channelData": {
+    "clientActivityID": "1587126541282436r89mvv1v",
+    "clientTimestamp": "2020-04-17T12:29:01.282Z"
+  }
+}

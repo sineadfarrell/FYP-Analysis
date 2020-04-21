@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "HAt6sEZEVboC3fDatGG4wA-m|0000018",
+  "timestamp": "2020-04-19T10:42:48.4595443+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587292880",
+    "name": "mark.hartnett",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "HAt6sEZEVboC3fDatGG4wA-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Contemperary Software Development",
+  "channelData": {
+    "clientActivityID": "158729296985016zov3s0wty",
+    "clientTimestamp": "2020-04-19T10:42:49.85Z"
+  }
+}

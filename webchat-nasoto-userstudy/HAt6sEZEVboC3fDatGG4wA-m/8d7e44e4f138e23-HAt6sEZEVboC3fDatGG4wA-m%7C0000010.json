@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "HAt6sEZEVboC3fDatGG4wA-m|0000010",
+  "timestamp": "2020-04-19T10:42:08.1478179+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587292880",
+    "name": "mark.hartnett",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "HAt6sEZEVboC3fDatGG4wA-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "me to",
+  "channelData": {
+    "clientActivityID": "1587292929547yrj73iqg92c",
+    "clientTimestamp": "2020-04-19T10:42:09.547Z"
+  }
+}

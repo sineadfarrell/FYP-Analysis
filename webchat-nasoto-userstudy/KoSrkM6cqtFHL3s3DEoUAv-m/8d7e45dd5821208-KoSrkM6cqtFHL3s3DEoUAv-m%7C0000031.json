@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "KoSrkM6cqtFHL3s3DEoUAv-m|0000031",
+  "timestamp": "2020-04-19T12:33:16.1377288+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587299349",
+    "name": "gavin.morris",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "KoSrkM6cqtFHL3s3DEoUAv-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "ucd campus",
+  "channelData": {
+    "clientActivityID": "15872995913181vglkd2lup7",
+    "clientTimestamp": "2020-04-19T12:33:11.318Z"
+  }
+}

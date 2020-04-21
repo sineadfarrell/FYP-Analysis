@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "KoSrkM6cqtFHL3s3DEoUAv-m|0000047",
+  "timestamp": "2020-04-19T12:34:48.4010097+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587299349",
+    "name": "gavin.morris",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "KoSrkM6cqtFHL3s3DEoUAv-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "bye",
+  "channelData": {
+    "clientActivityID": "1587299683586o45m29fp1cc",
+    "clientTimestamp": "2020-04-19T12:34:43.586Z"
+  }
+}

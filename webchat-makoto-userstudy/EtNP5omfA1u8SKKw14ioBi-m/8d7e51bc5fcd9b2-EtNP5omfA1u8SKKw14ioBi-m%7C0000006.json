@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "EtNP5omfA1u8SKKw14ioBi-m|0000006",
+  "timestamp": "2020-04-20T11:12:54.4774578+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587381137",
+    "name": "william.omeara",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "EtNP5omfA1u8SKKw14ioBi-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "4",
+  "channelData": {
+    "clientActivityID": "1587381170531sbjctvv3mcl",
+    "clientTimestamp": "2020-04-20T11:12:50.532Z"
+  }
+}

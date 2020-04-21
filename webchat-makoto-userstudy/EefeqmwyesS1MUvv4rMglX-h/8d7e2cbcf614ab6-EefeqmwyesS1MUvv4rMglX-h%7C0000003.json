@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "EefeqmwyesS1MUvv4rMglX-h|0000003",
+  "timestamp": "2020-04-17T12:35:28.1712822+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587126910",
+    "name": "jeremiah.wangaruro",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "EefeqmwyesS1MUvv4rMglX-h"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "My name is Tara",
+  "channelData": {
+    "clientActivityID": "15871269281288zx6qilccsq",
+    "clientTimestamp": "2020-04-17T12:35:28.128Z"
+  }
+}

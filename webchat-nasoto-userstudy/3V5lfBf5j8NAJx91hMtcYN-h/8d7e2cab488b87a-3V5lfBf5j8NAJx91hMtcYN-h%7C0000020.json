@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "3V5lfBf5j8NAJx91hMtcYN-h|0000020",
+  "timestamp": "2020-04-17T12:27:33.6344698+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587126261",
+    "name": "tara.mcgirl",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "3V5lfBf5j8NAJx91hMtcYN-h"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "I find it very practical and I enjoy the assignments",
+  "channelData": {
+    "clientActivityID": "15871264535993d2j3wrhk3a",
+    "clientTimestamp": "2020-04-17T12:27:33.599Z"
+  }
+}

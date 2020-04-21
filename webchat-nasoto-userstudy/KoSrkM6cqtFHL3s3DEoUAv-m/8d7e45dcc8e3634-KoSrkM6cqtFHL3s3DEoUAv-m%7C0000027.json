@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "KoSrkM6cqtFHL3s3DEoUAv-m|0000027",
+  "timestamp": "2020-04-19T12:33:01.1178036+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587299349",
+    "name": "gavin.morris",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "KoSrkM6cqtFHL3s3DEoUAv-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "all of my lecturers are good",
+  "channelData": {
+    "clientActivityID": "1587299576297nr227j1as4e",
+    "clientTimestamp": "2020-04-19T12:32:56.297Z"
+  }
+}

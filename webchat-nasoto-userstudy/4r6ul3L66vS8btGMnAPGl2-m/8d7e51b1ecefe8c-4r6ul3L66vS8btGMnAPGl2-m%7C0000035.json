@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "4r6ul3L66vS8btGMnAPGl2-m|0000035",
+  "timestamp": "2020-04-20T11:08:13.9974284+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587380637",
+    "name": "william.omeara",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "4r6ul3L66vS8btGMnAPGl2-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "I told you already",
+  "channelData": {
+    "clientActivityID": "1587380890048p4qye9fybbi",
+    "clientTimestamp": "2020-04-20T11:08:10.048Z"
+  }
+}

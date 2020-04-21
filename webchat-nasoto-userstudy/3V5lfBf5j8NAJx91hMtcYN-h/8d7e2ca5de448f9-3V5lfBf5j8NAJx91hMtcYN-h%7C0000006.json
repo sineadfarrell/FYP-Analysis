@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "3V5lfBf5j8NAJx91hMtcYN-h|0000006",
+  "timestamp": "2020-04-17T12:25:08.2727673+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587126261",
+    "name": "tara.mcgirl",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "3V5lfBf5j8NAJx91hMtcYN-h"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "Well I am on an internship at the moment, so none",
+  "channelData": {
+    "clientActivityID": "1587126308229w16gia0x968",
+    "clientTimestamp": "2020-04-17T12:25:08.229Z"
+  }
+}

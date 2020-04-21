@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "9rmesS7TBFNARi4rmbQCZ5-m|0000008",
+  "timestamp": "2020-04-20T12:03:06.3461421+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587384147",
+    "name": "alicia.browne",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "9rmesS7TBFNARi4rmbQCZ5-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Network Analysis",
+  "channelData": {
+    "clientActivityID": "1587384187525hje3gsvmkga",
+    "clientTimestamp": "2020-04-20T12:03:07.525Z"
+  }
+}

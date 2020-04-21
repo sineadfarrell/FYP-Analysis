@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "EefeqmwyesS1MUvv4rMglX-h|0000036",
+  "timestamp": "2020-04-17T12:38:44.4141196+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587126910",
+    "name": "jeremiah.wangaruro",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "EefeqmwyesS1MUvv4rMglX-h"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-IE",
+  "text": "I'm so disappointed",
+  "channelData": {
+    "clientActivityID": "15871271243575z9wrs2d82z",
+    "clientTimestamp": "2020-04-17T12:38:44.357Z"
+  }
+}

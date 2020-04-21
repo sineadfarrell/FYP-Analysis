@@ -1,0 +1,34 @@
+{
+  "type": "message",
+  "id": "8EZj1heLC8pEujb3PPXFLT-m|0000001",
+  "timestamp": "2020-04-19T12:46:21.2788299+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587300094",
+    "name": "gavin.morris",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "8EZj1heLC8pEujb3PPXFLT-m"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "Hi",
+  "entities": [
+    {
+      "type": "ClientCapabilities",
+      "requiresBotState": true,
+      "supportsListening": true,
+      "supportsTts": true
+    }
+  ],
+  "channelData": {
+    "clientActivityID": "15873003764143eg0pxmt49v",
+    "clientTimestamp": "2020-04-19T12:46:16.414Z"
+  }
+}

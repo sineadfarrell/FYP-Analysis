@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "4r6ul3L66vS8btGMnAPGl2-m|0000023",
+  "timestamp": "2020-04-20T11:07:25.3537667+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587380637",
+    "name": "william.omeara",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "4r6ul3L66vS8btGMnAPGl2-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": ",wasdhipewhiewhgew",
+  "channelData": {
+    "clientActivityID": "15873808414137ox6en9e41f",
+    "clientTimestamp": "2020-04-20T11:07:21.413Z"
+  }
+}

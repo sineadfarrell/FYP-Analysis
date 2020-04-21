@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "KoSrkM6cqtFHL3s3DEoUAv-m|0000033",
+  "timestamp": "2020-04-19T12:33:41.3121013+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587299349",
+    "name": "gavin.morris",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "KoSrkM6cqtFHL3s3DEoUAv-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "they're really good, especially the library",
+  "channelData": {
+    "clientActivityID": "15872996164923jxiyivl8z5",
+    "clientTimestamp": "2020-04-19T12:33:36.492Z"
+  }
+}

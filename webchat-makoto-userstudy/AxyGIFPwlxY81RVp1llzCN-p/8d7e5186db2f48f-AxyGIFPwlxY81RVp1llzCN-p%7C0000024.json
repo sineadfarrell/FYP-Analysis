@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "AxyGIFPwlxY81RVp1llzCN-p|0000024",
+  "timestamp": "2020-04-20T10:48:57.8634895+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587379637",
+    "name": "lauren.duffy",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "AxyGIFPwlxY81RVp1llzCN-p"
+  },
+  "recipient": {
+    "id": "Makoto-Bot@oXxjPNNlraI",
+    "name": "Makoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-GB",
+  "text": "no",
+  "channelData": {
+    "clientActivityID": "15873797759033ud4kgj9pq",
+    "clientTimestamp": "2020-04-20T10:49:35.903Z"
+  }
+}

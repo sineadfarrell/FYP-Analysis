@@ -1,0 +1,26 @@
+{
+  "type": "message",
+  "id": "KoSrkM6cqtFHL3s3DEoUAv-m|0000010",
+  "timestamp": "2020-04-19T12:30:54.3799738+00:00",
+  "serviceUrl": "https://webchat.botframework.com/",
+  "channelId": "webchat",
+  "from": {
+    "id": "r_1587299349",
+    "name": "gavin.morris",
+    "role": "user"
+  },
+  "conversation": {
+    "id": "KoSrkM6cqtFHL3s3DEoUAv-m"
+  },
+  "recipient": {
+    "id": "Nasoto-Bot@8ALbWJCVqJM",
+    "name": "Nasoto-Bot"
+  },
+  "textFormat": "plain",
+  "locale": "en-US",
+  "text": "nope all continuous assessment",
+  "channelData": {
+    "clientActivityID": "1587299449574uw9iu42476l",
+    "clientTimestamp": "2020-04-19T12:30:49.574Z"
+  }
+}
